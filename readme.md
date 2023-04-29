@@ -1,0 +1,2 @@
+# PyTrees Behavior Tree POC
+This is a proof-of-concept implementation of a behavior tree using the PyTrees library in Python. Behavior trees are a way to model the decision-making process of an agent in a game or other interactive system. PyTrees is a Python library for building and executing behavior trees.
